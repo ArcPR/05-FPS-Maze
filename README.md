@@ -3,3 +3,6 @@
 Godot Template for 3D Games
 
 Includes Keyboard mappings and Global.gd
+
+Sources:
+https://www.kenney.nl/assets/platformer-kit
