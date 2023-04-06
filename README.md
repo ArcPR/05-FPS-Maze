@@ -2,7 +2,7 @@
 
 Maze project with FPS controls and perspective for MSCH-C220 (Indiana University)
 
-Sources:
+# Sources
 Key Model: https://www.kenney.nl/assets/platformer-kit
 
 Enemy Model(s): https://kenney.nl/assets/blocky-characters
