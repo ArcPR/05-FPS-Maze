@@ -13,4 +13,4 @@ Zombie Snarl Sound: https://freesound.org/people/gneube/sounds/315844/
 
 Coin Sound: https://freesound.org/people/ProjectsU012/sounds/341695/
 
-Music: "The Biggest Discover" from Patrick de Arteaga (https://patrickdearteaga.com/royalty-free-music/)
+Music: "The Biggest Discovery" from Patrick de Arteaga (https://patrickdearteaga.com/royalty-free-music/)
