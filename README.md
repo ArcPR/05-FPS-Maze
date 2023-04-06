@@ -1,8 +1,6 @@
-# Godot-3D-Template
+# 05-FPS-Maze
 
-Godot Template for 3D Games
-
-Includes Keyboard mappings and Global.gd
+Maze project with FPS controls and perspective for MSCH-C220 (Indiana University)
 
 Sources:
 Key Model: https://www.kenney.nl/assets/platformer-kit
